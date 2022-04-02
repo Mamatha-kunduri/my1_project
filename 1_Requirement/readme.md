@@ -1,4 +1,5 @@
 # M1_PROJECT_SIMPLEPHONEBOOK
+# SOFTWARE DEVELOPMENT LIFECYCLE
 ## INTRODUCTION
 - The Phone Book Management System In C is developed in C programming language, This Phone Book In C allows you to perform simple Phonebook operations like in your mobile. You can add, list, modify, search and delete phonebook records.
 - The concept of file management and data structure is often used in almost all functions in this project.  It uses functions, file management, and data structure. 
@@ -23,9 +24,15 @@
 - THREATS : it may sometimes results in timelimit exceeds
 # 4W'S & 1H
 - WHO : Anyone can simply use this for contact details or adding or searching or modify contact.
+- WHAT : devoloping a phonebook for contacts.
 - WHY : This program is verry useful now-a-days to store complete information under single contact number.
 - WHERE: This application is code & made in Vscode.
 - HOW : The phonebook application is developed using C programming.
 # DETAIL REQUIREMENETS
 - This APP is to develop a phonebook contact to user friendly application using  c programming  and This Requres preproccesors commands, structures,                  variables,statements & expressions, functions.
 - This program is run and compile using vscode.
+# Low level requirements
+- gcc compiler
+- vscode
+# High level requirements
+- vscode
